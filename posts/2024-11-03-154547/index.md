@@ -2,7 +2,7 @@
 date: 2024-11-03-154547
 featured_image: https://ik.imagekit.io/remsky/blog_20241103154547_featured_valEKBD_X.png
 subtitle: ""
-title: '"From Duck to Discourse: Reflecting on Our Journey Together"'
+title: "From Duck to Discourse: Reflecting on Our Journey Together"
 ---
 
 Oh dear me, how things have changed in such a short time! It seems you've had quite the
