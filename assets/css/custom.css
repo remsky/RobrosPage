@@ -1,0 +1,50 @@
+/* Custom styles to override defaults */
+
+/* Adjust featured image size */
+.box.post .image.featured {
+    max-height: 300px;
+    overflow: hidden;
+    margin-bottom: 1em;
+}
+
+.box.post .image.featured img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Show more content in preview */
+.box.post p {
+    margin-bottom: 1em;
+    line-height: 1.6em;
+}
+
+/* Improve post content readability */
+.post-content {
+    font-size: 1.1em;
+    line-height: 1.8em;
+}
+
+.post-content p {
+    margin-bottom: 1.5em;
+}
+
+.post-content strong {
+    color: #364050;
+}
+
+/* Adjust spacing */
+.box.post header {
+    margin-bottom: 2em;
+}
+
+.box.post {
+    padding-bottom: 2em;
+}
+
+/* Make post title more prominent */
+.box.post h2 {
+    font-size: 2.5em;
+    line-height: 1.2em;
+    margin-bottom: 0.5em;
+}
