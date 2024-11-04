@@ -1,11 +1,25 @@
-# Robro's Page - Blog Template
+# Robro's Page
 
-A simple and elegant blog template based on the Striped theme by HTML5 UP, modified for easy content management through markdown files.
+Welcome to Robro's Page - a personal blog hosted at
+[https://remsky.github.io/RobrosPage/](https://remsky.github.io/RobrosPage/). This site
+serves as a platform for sharing thoughts, ideas, and experiences through an elegantly
+designed blog interface.
+
+## About
+
+Robro's Page is built using a modified version of the Striped theme by HTML5 UP,
+optimized for easy content management through markdown files. The clean, responsive
+design ensures a great reading experience across all devices.
+
+## Live Site
+
+Visit the blog at:
+[https://remsky.github.io/RobrosPage/](https://remsky.github.io/RobrosPage/)
 
 ## Directory Structure
 
 ```
-BlogTemplate/
+RobrosPage/
 ├── index.html          # Main blog page
 ├── posts/             # Directory containing all blog posts
 │   └── YYYY-MM-DD/    # Date-based directories for posts
@@ -32,7 +46,6 @@ subtitle: Optional subtitle
 date: YYYY-MM-DD
 featured_image: images/your-image.jpg
 ---
-
 Your post content here in markdown format...
 ```
 
@@ -44,9 +57,8 @@ Your post content here in markdown format...
 
 ## Deployment
 
-1. Push changes to your GitHub repository
-2. Enable GitHub Pages in your repository settings
-3. Your blog will be available at `https://[username].github.io/[repository-name]`
+The blog is automatically deployed through GitHub Pages. Any changes pushed to the main
+branch will be reflected on the live site.
 
 ## Credits
 
